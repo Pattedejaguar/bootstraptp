@@ -1,0 +1,169 @@
+h2
+{
+  font-family: 'Lucida Console', 'Monaco', monospace;
+  text-align: center;
+}
+
+li
+{
+font-family:  'courier new', sans-serif;
+margin-left: 20%
+}
+
+
+
+p
+{
+font-family: 'courier new', sans-serif
+}
+.jumbotron
+{
+ background-color: #788f89
+
+}
+
+.display-4
+{
+  font-size: 200%;
+font-family: 'Lucida Console', 'Monaco', monospace;
+}
+
+
+#barre1
+{
+ background-color: #788f89;
+ margin-top: 10%;
+ border-radius: 10px 10px 10px 10px
+}
+.barre2
+{
+ background-color: #afb796;
+ margin-top: 10%;
+ border-radius: 20px 50px 20px 50px
+}
+
+#barre3
+{
+ background-color:#7f7b6e ;
+ margin-top: 10%;
+ border-radius: 50px 20px 50px 20px
+}
+#progressbox
+{
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 7%;
+}
+
+.progressbar1
+{
+  width: 100%;
+  margin-bottom: 3%;
+  background-color: #788f89;
+  color: #eabba4;
+}
+
+
+#barre4
+{
+background-color:#eabba4 ;
+margin-top: 10%;
+border-radius: 20px 50px 20px 50px
+}
+
+#manu
+{
+text-decoration: none;
+font-weight: bold;
+color: black;
+}
+
+#lien
+{
+  font-size: bold;
+
+}
+#barre5
+{
+  background-color: #f77a87;
+  margin-top: 10%;
+  border-radius: 50px 20px 50px 20px
+}
+
+
+.navbar
+{
+  margin: -7%;
+}
+.menu2
+{
+color: #212529;
+font-weight: bold;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+
+
+.navbar
+{
+
+  background-color:#788f89;
+}
+.menu2:hover
+{
+ background-color: #f77a87;
+ border-radius: 20px 20px 20px 20px;
+ color: black;
+}
+#num
+{
+  font-size: 25px;
+}
+
+.contact
+{
+  color: #2E2529;
+  text-decoration: none;
+
+}
+@media screen and (max-width :700px )
+
+{
+.police
+{
+  font-size: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+}
+#progressbox
+{
+  width: 60%;
+  margin-right: 25%;
+}
+.num{
+  font-size: 15px;
+}
+ul
+{
+  margin-right: 10%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+/* Tentative d'aligner en une seule colonne la liste des compétences (conflit entre bootstrap et css) */
+/* #barre3
+{
+flex-direction: column;
+align-items: center;
+} */
+
+.comp
+{
+height: 150%;
+width: 150%;
+}
+
+body
+{
+
+}
